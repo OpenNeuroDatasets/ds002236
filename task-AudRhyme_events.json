@@ -13,7 +13,7 @@
     "LongName": "Trial Condition",
     "Description": "Category of trial based on stimuli characteristics",
     "Levels": {
-      "0": null,
+      "0": "null",
       "1": "O+P+",
       "2": "O-P+",
       "3": "O+P-",
