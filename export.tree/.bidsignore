@@ -1,0 +1,5 @@
+derivatives/
+code/
+derivatives/*
+code/*
+stimuli/Stimulus_Characteristics.tsv
